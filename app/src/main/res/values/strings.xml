@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Trading Dashboard</string>
+    <string name="top_20_volume">Top 20 por Volume</string>
+    <string name="biggest_gainers">Maiores Ganhos</string>
+    <string name="biggest_losers">Maiores Perdas</string>
+    <string name="price">Preço</string>
+    <string name="change_24h">Variação 24h</string>
+    <string name="volume_24h">Volume 24h</string>
+    <string name="market_cap">Cap. Mercado</string>
+    <string name="trading_pairs">Pares de Negociação</string>
+    <string name="price_history">Histórico de Preço</string>
+    <string name="loading">Carregando...</string>
+    <string name="error_loading_data">Erro ao carregar dados</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="no_data">Sem dados disponíveis</string>
+</resources>
